@@ -1,0 +1,17 @@
+@import "stylesheet,css";
+h1,h2,h3{
+color:cyan;
+background-color:rgb(14,179,142);
+font-weight:bolder;
+letter-spacing:4px;
+margin-bottom:5px;
+text-transform:capitalize;
+}
+
+h6{
+color:black;
+background-color:rgb(210,122,44);
+font-weight:normal;
+margin-bottom:4px;
+text-transform:uppercase;
+}
